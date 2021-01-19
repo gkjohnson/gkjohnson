@@ -1,4 +1,15 @@
-### Hi there 👋
+### Highlights
+
+- threejs-sandbox
+- webxr-sandbox
+- mrdoob/three.js
+- NASA-AMMOS/3DTilesRendererJS
+- urdf-loaders
+- xacro-parser
+- three-mesh-bvh
+- closed-chain-ik-js
+- webgl-gpu-power-estimation
+- timecraftjs
 
 <!--
 **gkjohnson/gkjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
