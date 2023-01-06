@@ -1,3 +1,5 @@
+Graphics enthusiast, three.js contributor, open source maintainer, former Mars helicopter operator & rover tool designer. If you like my work consider becoming a [Github Sponsor](https://github.com/sponsors/gkjohnson). Open for contract work for robotics and data visualization, shader development, interactive 3d graphics, and contributions to any of the following projects!
+
 **✨ Project Highlights**
 
 - [mrdoob/three.js](https://github.com/mrdoob/three.js)
