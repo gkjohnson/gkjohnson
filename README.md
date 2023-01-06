@@ -7,7 +7,6 @@ Graphics enthusiast, three.js contributor, open source maintainer, former Mars h
 - [three-gpu-pathtracer](https://github.com/gkjohnson/three-gpu-pathtracer)
 - [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg)
 - [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg)
-- [js-framerate-optimizer](https://github.com/gkjohnson/js-framerate-optimizer)
 
 **🪐 Robotics & NASA JPL**
 - [NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS)
@@ -21,6 +20,7 @@ Graphics enthusiast, three.js contributor, open source maintainer, former Mars h
 - [threejs-sandbox](https://github.com/gkjohnson/threejs-sandbox)
 - [webxr-sandbox](https://github.com/gkjohnson/webxr-sandbox)
 - [webgl-gpu-power-estimation](https://github.com/gkjohnson/webgl-gpu-power-estimation)
+- [js-framerate-optimizer](https://github.com/gkjohnson/js-framerate-optimizer)
 
 <!--
 **gkjohnson/gkjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
