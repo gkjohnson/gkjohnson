@@ -9,7 +9,7 @@ Graphics enthusiast, three.js contributor, open source maintainer, former Mars h
 
 **🪐 Robotics & NASA JPL**
 - [NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS)
-- [NASA-AMMOS/timecraftjs](https://github.com/gkjohnson/timecraftjs)
+- [NASA-AMMOS/timecraftjs](https://github.com/NASA-AMMOS/timecraftjs)
 - [NASA-AMMOS/CameraModelUtilsJS](https://github.com/NASA-AMMOS/CameraModelUtilsJS)
 - [urdf-loaders](https://github.com/gkjohnson/urdf-loaders)
 - [xacro-parser](https://github.com/gkjohnson/xacro-parser)
