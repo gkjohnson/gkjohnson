@@ -1,15 +1,22 @@
-### Highlights
+**✨ Project Highlights**
 
-- threejs-sandbox
-- webxr-sandbox
-- mrdoob/three.js
-- NASA-AMMOS/3DTilesRendererJS
-- urdf-loaders
-- xacro-parser
-- three-mesh-bvh
-- closed-chain-ik-js
-- webgl-gpu-power-estimation
-- timecraftjs
+- [mrdoob/three.js](https://github.com/mrdoob/three.js)
+- [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh)
+- [three-gpu-pathtracer](https://github.com/gkjohnson/three-gpu-pathtracer)
+- [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg)
+
+**🪐 Robotics & NASA JPL**
+- [NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS)
+- [NASA-AMMOS/timecraftjs](https://github.com/gkjohnson/timecraftjs)
+- [NASA-AMMOS/CameraModelUtilsJS](https://github.com/NASA-AMMOS/CameraModelUtilsJS)
+- [urdf-loaders](https://github.com/gkjohnson/urdf-loaders)
+- [xacro-parser](https://github.com/gkjohnson/xacro-parser)
+- [closed-chain-ik-js](https://github.com/gkjohnson/closed-chain-ik-js)
+
+**🌱 Miscellaneous**
+- [threejs-sandbox](https://github.com/gkjohnson/threejs-sandbox)
+- [webxr-sandbox](https://github.com/gkjohnson/webxr-sandbox)
+- [webgl-gpu-power-estimation](https://github.com/gkjohnson/webgl-gpu-power-estimation)
 
 <!--
 **gkjohnson/gkjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
