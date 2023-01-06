@@ -6,7 +6,6 @@ Graphics enthusiast, three.js contributor, open source maintainer, former Mars h
 - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh)
 - [three-gpu-pathtracer](https://github.com/gkjohnson/three-gpu-pathtracer)
 - [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg)
-- [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg)
 
 **🪐 Robotics & NASA JPL**
 - [NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS)
