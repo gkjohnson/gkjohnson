@@ -20,6 +20,7 @@ Graphics enthusiast, three.js collaborator, open source maintainer, former Mars 
 - [webxr-sandbox](https://github.com/gkjohnson/webxr-sandbox)
 - [webgl-gpu-power-estimation](https://github.com/gkjohnson/webgl-gpu-power-estimation)
 - [js-framerate-optimizer](https://github.com/gkjohnson/js-framerate-optimizer)
+- [source-engine-model-loader](https://github.com/gkjohnson/source-engine-model-loader)
 
 <!--
 **gkjohnson/gkjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
