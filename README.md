@@ -2,10 +2,11 @@ Graphics enthusiast, three.js collaborator, open source maintainer, former Mars 
 
 **✨ Project Highlights**
 
-- [mrdoob/three.js](https://github.com/mrdoob/three.js)
+- [three-sketches](https://github.com/gkjohnson/three-sketches)
 - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh)
 - [three-gpu-pathtracer](https://github.com/gkjohnson/three-gpu-pathtracer)
 - [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg)
+- [mrdoob/three.js](https://github.com/mrdoob/three.js)
 
 **🪐 Robotics & NASA JPL**
 - [NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS)
