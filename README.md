@@ -13,6 +13,7 @@ Graphics enthusiast, three.js collaborator, open source maintainer, former Mars 
 - [NASA-AMMOS/timecraftjs](https://github.com/NASA-AMMOS/timecraftjs)
 - [NASA-AMMOS/CameraModelUtilsJS](https://github.com/NASA-AMMOS/CameraModelUtilsJS)
 - [urdf-loaders](https://github.com/gkjohnson/urdf-loaders)
+- [urdf-exporter](https://github.com/gkjohnson/urdf-exporter-js)
 - [xacro-parser](https://github.com/gkjohnson/xacro-parser)
 - [closed-chain-ik-js](https://github.com/gkjohnson/closed-chain-ik-js)
 
