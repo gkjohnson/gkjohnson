@@ -16,6 +16,7 @@ Graphics enthusiast, three.js collaborator, open source maintainer, former Mars 
 - [urdf-exporter](https://github.com/gkjohnson/urdf-exporter-js)
 - [xacro-parser](https://github.com/gkjohnson/xacro-parser)
 - [closed-chain-ik-js](https://github.com/gkjohnson/closed-chain-ik-js)
+- [NASA-AMMOS/3DTilesRendererJS](https://github.com/gkjohnson/three-geojson)
 
 **🌱 Miscellaneous**
 - [threejs-sandbox](https://github.com/gkjohnson/threejs-sandbox)
