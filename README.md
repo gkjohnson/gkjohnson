@@ -8,7 +8,7 @@ Graphics enthusiast, three.js collaborator, open source maintainer, former Mars 
 - [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg)
 - [mrdoob/three.js](https://github.com/mrdoob/three.js)
 
-**🪐 Robotics & NASA JPL**
+**🪐 Robotics, Geospatial, & NASA JPL**
 - [NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS)
 - [NASA-AMMOS/timecraftjs](https://github.com/NASA-AMMOS/timecraftjs)
 - [NASA-AMMOS/CameraModelUtilsJS](https://github.com/NASA-AMMOS/CameraModelUtilsJS)
