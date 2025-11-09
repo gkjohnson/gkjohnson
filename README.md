@@ -6,6 +6,7 @@ Graphics enthusiast, three.js collaborator, open source maintainer, former Mars 
 - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh)
 - [three-gpu-pathtracer](https://github.com/gkjohnson/three-gpu-pathtracer)
 - [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg)
+- [three-edge-projection](https://github.com/gkjohnson/three-edge-projection)
 - [mrdoob/three.js](https://github.com/mrdoob/three.js)
 
 **🪐 Robotics, Geospatial, & NASA JPL**
@@ -19,16 +20,13 @@ Graphics enthusiast, three.js collaborator, open source maintainer, former Mars 
 - [three-geojson](https://github.com/gkjohnson/three-geojson)
 
 **🌱 Miscellaneous**
-- [three-edge-projection](https://github.com/gkjohnson/three-edge-projection)
 - [webxr-sandbox](https://github.com/gkjohnson/webxr-sandbox)
-- [webgl-gpu-power-estimation](https://github.com/gkjohnson/webgl-gpu-power-estimation)
-- [js-framerate-optimizer](https://github.com/gkjohnson/js-framerate-optimizer)
-- [source-engine-model-loader](https://github.com/gkjohnson/source-engine-model-loader)
-
-**🧪 Experiments**
 - [threejs-sandbox](https://github.com/gkjohnson/threejs-sandbox)
 - [depth-peeling-demo](https://github.com/gkjohnson/depth-peeling-demo)
 - [three-jumpflood-demo](https://github.com/gkjohnson/three-jumpflood-demo)
+- [webgl-gpu-power-estimation](https://github.com/gkjohnson/webgl-gpu-power-estimation)
+- [js-framerate-optimizer](https://github.com/gkjohnson/js-framerate-optimizer)
+- [source-engine-model-loader](https://github.com/gkjohnson/source-engine-model-loader)
 
 <!--
 **gkjohnson/gkjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
