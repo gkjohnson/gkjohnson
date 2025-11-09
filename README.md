@@ -25,7 +25,7 @@ Graphics enthusiast, three.js collaborator, open source maintainer, former Mars 
 - [js-framerate-optimizer](https://github.com/gkjohnson/js-framerate-optimizer)
 - [source-engine-model-loader](https://github.com/gkjohnson/source-engine-model-loader)
 
-**Demos**
+**🧪 Experiments**
 - [threejs-sandbox](https://github.com/gkjohnson/threejs-sandbox)
 - [depth-peeling-demo](https://github.com/gkjohnson/depth-peeling-demo)
 - [three-jumpflood-demo](https://github.com/gkjohnson/three-jumpflood-demo)
