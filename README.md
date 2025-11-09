@@ -19,12 +19,16 @@ Graphics enthusiast, three.js collaborator, open source maintainer, former Mars 
 - [three-geojson](https://github.com/gkjohnson/three-geojson)
 
 **🌱 Miscellaneous**
-- [threejs-sandbox](https://github.com/gkjohnson/threejs-sandbox)
 - [three-edge-projection](https://github.com/gkjohnson/three-edge-projection)
 - [webxr-sandbox](https://github.com/gkjohnson/webxr-sandbox)
 - [webgl-gpu-power-estimation](https://github.com/gkjohnson/webgl-gpu-power-estimation)
 - [js-framerate-optimizer](https://github.com/gkjohnson/js-framerate-optimizer)
 - [source-engine-model-loader](https://github.com/gkjohnson/source-engine-model-loader)
+
+**Demos**
+- [threejs-sandbox](https://github.com/gkjohnson/threejs-sandbox)
+- [depth-peeling-demo](https://github.com/gkjohnson/depth-peeling-demo)
+- [three-jumpflood-demo](https://github.com/gkjohnson/three-jumpflood-demo)
 
 <!--
 **gkjohnson/gkjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
