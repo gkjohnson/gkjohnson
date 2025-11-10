@@ -22,7 +22,7 @@ Graphics enthusiast, three.js collaborator, open source maintainer, former Mars 
 **🌱 Miscellaneous**
 - [webxr-sandbox](https://github.com/gkjohnson/webxr-sandbox)
 - [threejs-sandbox](https://github.com/gkjohnson/threejs-sandbox)
-- [depth-peeling-demo](https://github.com/gkjohnson/depth-peeling-demo)
+- [three-depthpeeling-demo](https://github.com/gkjohnson/three-depthpeeling-demo)
 - [three-jumpflood-demo](https://github.com/gkjohnson/three-jumpflood-demo)
 - [webgl-gpu-power-estimation](https://github.com/gkjohnson/webgl-gpu-power-estimation)
 - [js-framerate-optimizer](https://github.com/gkjohnson/js-framerate-optimizer)
